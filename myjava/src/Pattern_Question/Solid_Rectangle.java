@@ -1,11 +1,11 @@
 package Pattern_Question;
 import java.util.*;
 public class Solid_Rectangle {
-//	                             -----> column
-//								|	* * * * *  
-//								|	* * * * *
-//							   row  * * * * * 
-//								    * * * * * 
+//  -----> column
+//  * * * * *  
+//  * * * * *
+//  * * * * * 
+//  * * * * * 
 	public static void main(String args[]) {
 		
 		Scanner sc=new Scanner(System.in);
