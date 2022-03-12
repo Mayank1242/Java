@@ -1,6 +1,6 @@
 package recussrsion;
 
-public class Rescursion {
+public class Rescursion_Questions {
 //  public static int printnumber(int n){
 //	  if(n==0) {
 //		  return 0;
