@@ -1,4 +1,4 @@
-package myjava1;
+package javaBasic_to_oops;
 
 class Pen{
 	String colour;

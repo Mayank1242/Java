@@ -1,4 +1,4 @@
-package myjava1;
+package javaBasic_to_oops;
 
 import java.util.*;
 public class array {
