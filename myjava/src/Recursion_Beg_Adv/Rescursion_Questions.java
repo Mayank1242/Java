@@ -1,4 +1,4 @@
-package recussrsion;
+package Recursion_Beg_Adv;
 
 public class Rescursion_Questions {
 //  public static int printnumber(int n){

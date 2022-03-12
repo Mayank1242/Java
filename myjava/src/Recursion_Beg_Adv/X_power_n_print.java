@@ -1,4 +1,4 @@
-package recussrsion;
+package Recursion_Beg_Adv;
 
 
 public class X_power_n_print {
