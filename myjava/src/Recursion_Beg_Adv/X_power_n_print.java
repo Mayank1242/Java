@@ -27,8 +27,8 @@ public class X_power_n_print {
 //		calcpower(2,4);
 //		System.out.println(calcpower(2,5));
 		String sc="abcd";
-	int	first=sc.charAt(0);
-	int last=sc.charAt(sc.length()-1);
+	    int	first=sc.charAt(0);
+	    int last=sc.charAt(sc.length()-1);
 		find_accourence(sc,first,last);
 	}
 }
