@@ -21,7 +21,7 @@ public void printinfo() {
 }
 }
 
-public class Oops_Compiletimepolymorphism{
+public class Oops_Compile_time_polymorphism{
 	
 public static void main(String args[]) {
 	 
