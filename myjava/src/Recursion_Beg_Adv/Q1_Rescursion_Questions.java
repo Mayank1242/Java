@@ -1,6 +1,7 @@
 package Recursion_Beg_Adv;
 
 public class Q1_Rescursion_Questions {
+//Print Natural number using recursion 5 4 3 2 1 
 //  public static int printnumber(int n){
 //	  if(n==0) {
 //		  return 0;
@@ -9,7 +10,8 @@ public class Q1_Rescursion_Questions {
 //	  return printnumber(n-1);
 //  }
 //  
-//  //
+////////////////////////////////////////////////////////////////////////////	
+//  Print Natural number using recursion 1 2 3 4 5
 //  public static int printnumberre(int n){
 //	  if(n==6) {
 //		  return 0;
@@ -18,6 +20,8 @@ public class Q1_Rescursion_Questions {
 //	  return printnumberre(n+1);
 //  }
   
+//////////////////////////////////////////////////////////////////////
+//Print sum of n natural numbers
 //public static void printsum(int i,int n,int sum){
 //	  if(i==n) {
 //		  sum+=i;
@@ -32,6 +36,8 @@ public class Q1_Rescursion_Questions {
 //	   
 // }
 
+////////////////////////////////////////////////////////////////////////
+// Factorial of number
 //public static int factorial(int n){
 //	if(n==1 || n==0) {
 ////		System.out.print("1");
@@ -46,7 +52,8 @@ public class Q1_Rescursion_Questions {
 //	return fct;	   
 //		   
 //	 }
-
+/////////////////////////////////////////////////////////////////////////////////
+//Print fibonacci series of a number
 public static void fibonacci(int a,int b,int n){
 	if(n==0) {
 		return;
