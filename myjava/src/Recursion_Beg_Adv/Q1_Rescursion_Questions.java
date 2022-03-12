@@ -1,6 +1,6 @@
 package Recursion_Beg_Adv;
 
-public class Rescursion_Questions {
+public class Q1_Rescursion_Questions {
 //  public static int printnumber(int n){
 //	  if(n==0) {
 //		  return 0;

@@ -1,7 +1,7 @@
 package Recursion_Beg_Adv;
 
 
-public class X_power_n_print {
+public class Q2_X_power_n_print {
 //	public static int calcpower(int x,int n){
 //		if(n==0 ) {
 //			return 1;
