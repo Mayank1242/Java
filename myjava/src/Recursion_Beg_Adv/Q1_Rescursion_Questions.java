@@ -1,6 +1,7 @@
 package Recursion_Beg_Adv;
 
 public class Q1_Rescursion_Questions {
+/////////////////////////////////////////////////////////////
 //Print Natural number using recursion 5 4 3 2 1 
 //  public static int printnumber(int n){
 //	  if(n==0) {
